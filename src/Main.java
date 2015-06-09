@@ -1,8 +1,13 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8dfa4704bf031d4ce60834ca7332d604c8209c07
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+<<<<<<< HEAD
 		String s = "CAD";
 		System.out.println(currencyOne(s));
 	}
@@ -25,6 +30,8 @@ public class Main {
 		
 		return num;
 
+=======
+>>>>>>> 8dfa4704bf031d4ce60834ca7332d604c8209c07
 	}
 
 }
